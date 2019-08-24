@@ -2,8 +2,8 @@ name: inverse
 layout: true
 class: center, middle, inverse
 ---
-# タイトル
-１ページ目
+# 村田研究室の紹介
+村田研でできること
 ---
 layout:false
 ## スライド１
